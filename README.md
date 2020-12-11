@@ -1,7 +1,4 @@
-# Moussa forked it !!
-
-
-           # NASA Image Search Engine
+# NASA Image Search Engine
 
 This application generates images and information based on the users search entry.
 
